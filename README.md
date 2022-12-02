@@ -1,4 +1,4 @@
-This repository is the demonstration of Chat and Video call functionality using firebase and Jitsi Meet.
+This repository is the demonstration of Chat functionality using firebase.
 Supported Feature:
 
 
